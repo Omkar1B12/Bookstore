@@ -1,0 +1,81 @@
+[
+
+    {
+        "id":1,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    },
+    {
+        "id":2,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    },
+    {
+        "id":3,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    },
+    {
+        "id":4,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    },
+    {
+        "id":5,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    }, {
+        "id":6,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    }, {
+        "id":7,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    }, {
+        "id":8,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Paid",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    }, {
+        "id":9,
+        "name":"Atomic Habits",
+        "title":"Know about habit and how to add good habits in your life",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.flaticon.com/free-icon/stack-of-books_5832416?term=book&page=1&position=6&origin=search&related_id=5832416"
+
+    }
+
+]
