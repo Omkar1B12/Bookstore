@@ -1,0 +1,27 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Mern product",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkar1B12/Bookstore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omkar1B12/Bookstore/issues"
+  },
+  "homepage": "https://github.com/Omkar1B12/Bookstore#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
